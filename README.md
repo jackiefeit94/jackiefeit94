@@ -18,8 +18,11 @@
         <p>A browser-based game designed to teach new developers SQL commands.</p>
 
 </tr>
+
   
   
+
+<table bordercolor="#66b2b2">
    <tr>
       </td>
      <td width="50%" valign="top">
@@ -43,7 +46,7 @@
         <p>A mock e-commerce website that sells halloween costumes for dogs.</p>
     </td>
   </tr>
-</table>
+  </table>
 
 
 
