@@ -17,7 +17,7 @@
         </a>
         <p>A browser-based game designed to teach new developers SQL commands.</p>
 
-
+</tr>
   
   
    <tr>
@@ -32,7 +32,6 @@
         </a>
         <p>A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
     </td>
-  </tr>
       <td width="33%" valign="top">
       <h3>HalloWOOF</h3>
         <br />
