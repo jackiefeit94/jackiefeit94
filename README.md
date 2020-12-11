@@ -2,7 +2,7 @@
 
 ### Here is my [resume](https://jackiefeit94.github.io/Resume/).
 
-### And here are a couple of my favorite projects!
+### And here are a few of my favorite projects!
 
 
 <table bordercolor="#66b2b2">
@@ -15,6 +15,7 @@
         <a href="https://spyql.herokuapp.com/">
             <img src="https://media.giphy.com/media/H0XE7IdvG7BJdY8aTD/giphy.gif" width="100%" alt="SpyQL"/>
         </a>
+     <br />
         <p>A browser-based game designed to teach new developers SQL commands.</p>
 </td>
 <td width="50%" valign="top">
