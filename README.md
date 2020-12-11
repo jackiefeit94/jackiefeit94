@@ -29,6 +29,7 @@
             <img src="https://media.giphy.com/media/WD7GdVKKhRDdrfFjaR/giphy.gif" width="100%" alt="Weather Watcher"/>
         </a>
    <br />
+   <br />
         <p>A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
     </td>
 </tr>
