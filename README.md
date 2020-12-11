@@ -40,7 +40,7 @@
         <p><a href="https://github.com/Grace-Shopper-BG-JL-AV/grace-shopper">Repo</a> | <a href="https://hallowoof.herokuapp.com/">Site</a></p>
         <br />
           <a href="https://hallowoof.herokuapp.com/">
-            <img src="https://media.giphy.com/media/radHakjt8ESYU1Bkaa/giphy.gif" width="85%" alt="HalloWOOF"/>
+            <img src="https://media.giphy.com/media/radHakjt8ESYU1Bkaa/giphy.gif" width="95%" alt="HalloWOOF"/>
           </a>
         <p>A mock e-commerce website that sells halloween costumes for dogs.</p>
     </td>
