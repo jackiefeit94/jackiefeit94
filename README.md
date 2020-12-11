@@ -15,6 +15,9 @@
         <a href="https://spyql.herokuapp.com/">
             <img src="https://media.giphy.com/media/H0XE7IdvG7BJdY8aTD/giphy.gif" width="100%" alt="SpyQL"/>
         </a>
+      <br />
+      <br />
+      <br />
         <p valign="bottom">A browser-based game designed to teach new developers SQL commands.</p>
 </td>
 <td width="50%" valign="top">
@@ -25,6 +28,7 @@
         <a href="https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.b">
             <img src="https://media.giphy.com/media/WD7GdVKKhRDdrfFjaR/giphy.gif" width="100%" alt="Weather Watcher"/>
         </a>
+   <br />
         <p>A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
     </td>
 </tr>
