@@ -18,6 +18,7 @@
       <br />
       <br />
       <br />
+      <br />
         <p valign="bottom">A browser-based game designed to teach new developers SQL commands.</p>
 </td>
 <td width="50%" valign="top">
