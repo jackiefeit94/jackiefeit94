@@ -10,7 +10,7 @@
    <td width="50%" valign="top">
       <h3>SpyQL</h3>
         <br />
-        <p><a href="https://github.com/jackiefeit94/SpyQL">Repo</a> | <a href="https://spyql.herokuapp.com//">Site</a></p>  <a href="https://www.youtube.com/watch?v=F86QpHcykgQ//">Video</a></p>
+        <p><a href="https://github.com/jackiefeit94/SpyQL">Repo</a> | <a href="https://spyql.herokuapp.com//">Site</a> | <a href="https://www.youtube.com/watch?v=F86QpHcykgQ//">Video</a></p>
         <br />
         <a href="https://spyql.herokuapp.com/">
             <img src="https://media.giphy.com/media/H0XE7IdvG7BJdY8aTD/giphy.gif" width="100%" alt="SpyQL"/>
