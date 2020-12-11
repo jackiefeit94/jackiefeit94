@@ -23,7 +23,7 @@
         <p><a href="https://github.com/Jackie-Sydney-Betsy/weather-chrome-extension">Repo</a> | <a href="https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.be">Video</a></p>
         <br />
         <a href="https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.b">
-            <img src="https://media.giphy.com/media/WD7GdVKKhRDdrfFjaR/giphy.gif" width="100%" alt="Weather Watcher"/>
+            <img src="https://media.giphy.com/media/WD7GdVKKhRDdrfFjaR/giphy.gif" width="100%" height="75%" alt="Weather Watcher"/>
         </a>
         <p>A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
     </td>
@@ -40,7 +40,7 @@
         <p><a href="https://github.com/Grace-Shopper-BG-JL-AV/grace-shopper">Repo</a> | <a href="https://hallowoof.herokuapp.com/">Site</a></p>
         <br />
           <a href="https://hallowoof.herokuapp.com/">
-            <img src="https://media.giphy.com/media/radHakjt8ESYU1Bkaa/giphy.gif" width="100%" height="75%" alt="HalloWOOF"/>
+            <img src="https://media.giphy.com/media/radHakjt8ESYU1Bkaa/giphy.gif" width="100%" alt="HalloWOOF"/>
           </a>
         <p>A mock e-commerce website that sells halloween costumes for dogs.</p>
     </td>
