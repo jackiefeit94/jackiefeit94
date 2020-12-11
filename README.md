@@ -7,7 +7,7 @@
 SpyQL | Weather Watcher
 ------------ | -------------
 [Walkthrough](https://www.youtube.com/watch?v=F86QpHcykgQ), [Site](https://spyql.herokuapp.com/), and [Repo](https://github.com/jackiefeit94/SpyQL) | [Walkthrough](https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.be) and [Repo](https://github.com/Jackie-Sydney-Betsy/weather-chrome-extension)
-<img style="height: 50px; width: 100px" src ="https://media.giphy.com/media/H0XE7IdvG7BJdY8aTD/giphy.gif" alt="spyql" /> | <img src="https://media.giphy.com/media/WD7GdVKKhRDdrfFjaR/giphy.gif" alt="weatherApp" />
+<img style="height: 50px; width: 100px" src ="https://media.giphy.com/media/H0XE7IdvG7BJdY8aTD/giphy.gif" alt="spyql" /> | <img style="height: 50px; width: 100px" src="https://media.giphy.com/media/WD7GdVKKhRDdrfFjaR/giphy.gif" alt="weatherApp" />
 SpyQL is a browser-based game designed to teach new developers SQL. | Weather Watcher is a chrome extension that helps folks stay informed about climate change.
 
 <!--
