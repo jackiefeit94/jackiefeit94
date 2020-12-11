@@ -15,10 +15,7 @@
         <a href="https://spyql.herokuapp.com/">
             <img src="https://media.giphy.com/media/H0XE7IdvG7BJdY8aTD/giphy.gif" width="100%" alt="SpyQL"/>
         </a>
-     <br />
-     <br />
-     <br />
-        <p>A browser-based game designed to teach new developers SQL commands.</p>
+        <p valign="bottom">A browser-based game designed to teach new developers SQL commands.</p>
 </td>
 <td width="50%" valign="top">
       <h3>Weather Watcher</h3>
