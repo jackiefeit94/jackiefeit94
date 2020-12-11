@@ -17,14 +17,7 @@
         </a>
         <p>A browser-based game designed to teach new developers SQL commands.</p>
 </td>
-</tr>
-
-  
-  
-
-<table bordercolor="#66b2b2">
-   <tr>
-     <td width="50%" valign="top">
+<td width="50%" valign="top">
       <h3>Weather Watcher</h3>
         <br />
         <p><a href="https://github.com/Jackie-Sydney-Betsy/weather-chrome-extension">Repo</a> | <a href="https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.be">Video</a></p>
@@ -34,7 +27,14 @@
         </a>
         <p>A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
     </td>
-      <td width="50%" valign="top">
+</tr>
+
+  
+  
+
+<table bordercolor="#66b2b2">
+   <tr>
+      <td width="100%" valign="top">
       <h3>HalloWOOF</h3>
         <br />
         <p><a href="https://github.com/Grace-Shopper-BG-JL-AV/grace-shopper">Repo</a> | <a href="https://hallowoof.herokuapp.com/">Site</a></p>
