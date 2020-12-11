@@ -15,10 +15,6 @@
         <a href="https://spyql.herokuapp.com/">
             <img src="https://media.giphy.com/media/H0XE7IdvG7BJdY8aTD/giphy.gif" width="100%" alt="SpyQL"/>
         </a>
-      <br />
-      <br />
-      <br />
-      <br />
         <p valign="bottom">A browser-based game designed to teach new developers SQL commands.</p>
 </td>
 <td width="50%" valign="top">
@@ -29,8 +25,6 @@
         <a href="https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.b">
             <img src="https://media.giphy.com/media/WD7GdVKKhRDdrfFjaR/giphy.gif" width="100%" alt="Weather Watcher"/>
         </a>
-   <br />
-   <br />
         <p>A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
     </td>
 </tr>
@@ -46,7 +40,7 @@
         <p><a href="https://github.com/Grace-Shopper-BG-JL-AV/grace-shopper">Repo</a> | <a href="https://hallowoof.herokuapp.com/">Site</a></p>
         <br />
           <a href="https://hallowoof.herokuapp.com/">
-            <img src="https://media.giphy.com/media/radHakjt8ESYU1Bkaa/giphy.gif" width="100%" alt="HalloWOOF"/>
+            <img src="https://media.giphy.com/media/radHakjt8ESYU1Bkaa/giphy.gif" width="100%" height="75%" alt="HalloWOOF"/>
           </a>
         <p>A mock e-commerce website that sells halloween costumes for dogs.</p>
     </td>
