@@ -5,9 +5,9 @@
 ### And here are a couple of my favorite projects!
 
 
-<table bordercolor="#66b2b2">
-  <tr width="100%">
-   <td width="100%" valign="top">
+<table width="100%" bordercolor="#66b2b2">
+  <tr>
+   <td valign="top">
       <h3>SpyQL</h3>
         <br />
         <p><a href="https://github.com/jackiefeit94/SpyQL">Repo</a> | <a href="https://spyql.herokuapp.com//">Site</a></p> | <a href="https://www.youtube.com/watch?v=F86QpHcykgQ//">Video</a></p>
