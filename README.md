@@ -6,7 +6,7 @@
 
 
 <table bordercolor="#66b2b2">
-  <tr>
+  <tr width="100%">
    <td width="100%" valign="top">
       <h3>SpyQL</h3>
         <br />
