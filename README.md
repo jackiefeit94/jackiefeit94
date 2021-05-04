@@ -1,4 +1,4 @@
-# Hello, World! I'm Jackie. 💁
+# Hello, World! I'm Jackie.
 
 ### Here is my [resume](https://jackiefeit94.github.io/Resume/).
 
